@@ -37,7 +37,7 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/iamthebestm85/Proxy-Scraper-And-Checker-.git
+git clone https://github.com/haohaone1029/Proxy-Scraper-checker.git
 cd Proxy-Scraper-And-Checker- 
 python3 -m venv venv && source venv/bin/activate 
 pip install aiohttp colorama tqdm
